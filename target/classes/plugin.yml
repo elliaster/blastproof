@@ -1,0 +1,4 @@
+name: BlastProof
+version: 1.0-SNAPSHOT
+main: site.elliaster.blastproof.BlastProof
+api-version: 1.16

@@ -1,0 +1,4 @@
+name: BlastProof
+version: ${project.version}
+main: site.elliaster.blastproof.BlastProof
+api-version: 1.16
